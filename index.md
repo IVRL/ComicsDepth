@@ -1,6 +1,7 @@
 ## Estimating Image Depth in the Comics Domain
 
-You can use the [editor on GitHub](https://github.com/IVRL/ComicsDepth/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+YCode, models and annotated data are available [here](https://github.com/IVRL/ComicsDepth/).
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
