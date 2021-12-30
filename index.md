@@ -1,6 +1,7 @@
 ## Estimating Image Depth in the Comics Domain
 
-YCode, models and annotated data are available [here](https://github.com/IVRL/ComicsDepth/).
+Code, models and annotated data are available [here](https://github.com/IVRL/ComicsDepth/).
+
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
