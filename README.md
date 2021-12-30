@@ -68,7 +68,8 @@ python datasets_preparation.py --generate_text_masks
 
 ### Generating depth ordering for evaluation
 
-*This step requires a lot of manual annotation work and the benchmark will be updated and extended in future to contain more number of images. Please contact the authors for the newest version of the annotated benchmark. Also, if you want to contribute to this benchmark please contact the authors. *
+This step requires a lot of manual annotation work and the benchmark will be updated and extended in future to contain more number of images. Please contact the authors for the newest version of the annotated benchmark. The curreent version is under th RELEASE section.
+Also, if you want to contribute to this benchmark please contact the authors. 
 Those ground-truth depth ordering must be place under *REPO_NAME/data/dcm_cropped/depth*. 
 
 
