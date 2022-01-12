@@ -1,4 +1,4 @@
-# Estimating Image Depth in the Comics Domain
+# (WACV 2022) Estimating Image Depth in the Comics Domain
 Deblina Bhattacharjee, Martin Everaert, Mathieu Salzmann, Sabine Süsstrunk
 
 WACV 2022 
