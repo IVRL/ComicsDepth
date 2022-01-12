@@ -153,14 +153,14 @@ All models are available at https://drive.google.com/drive/folders/1df-jlouewbr2
 
 If you find the code, data, or the models useful, please cite this paper:
 ```
-     @misc{bhattacharjee2021estimating,
-      title={Estimating Image Depth in the Comics Domain}, 
-      author={Deblina Bhattacharjee and Martin Everaert and Mathieu Salzmann and Sabine Süsstrunk},
-      year={2021},
-      eprint={2110.03575},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-     }
+     @InProceedings{Bhattacharjee_2022_WACV,
+    author    = {Bhattacharjee, Deblina and Everaert, Martin and Salzmann, Mathieu and S\"usstrunk, Sabine},
+    title     = {Estimating Image Depth in the Comics Domain},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2022},
+    pages     = {2070-2079}
+}
 ```
 ## License 
 ``` 
