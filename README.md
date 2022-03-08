@@ -10,7 +10,7 @@ https://ivrl.github.io/ComicsDepth/
 1. Install pytorch,torchvision
 2. Install apex
 ```
-conda install -c conda-forge nvidia-apex
+conda install -c conda-forge nvidia-apex 
 ```
 ## Dataset
 ### Get the training datasets for Comics domain
