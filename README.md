@@ -164,5 +164,5 @@ If you find the code, data, or the models useful, please cite this paper:
 ```
 ## License 
 ``` 
- [Creative Commons Attribution Non-commercial No Derivatives](http://creativecommons.org/licenses/by-nc-nd/3.0/)
+ [Creative Commons Attribution Non-commercial](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
 ```
