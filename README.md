@@ -1,6 +1,8 @@
 # (WACV 2022) Estimating Image Depth in the Comics Domain
 Deblina Bhattacharjee, Martin Everaert, Mathieu Salzmann, Sabine Süsstrunk
 
+[![DOI](https://zenodo.org/badge/430376249.svg)](https://zenodo.org/doi/10.5281/zenodo.11068978)
+
 WACV 2022 
 Paper: https://arxiv.org/abs/2110.03575
 
